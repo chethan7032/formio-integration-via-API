@@ -25,24 +25,6 @@ Laravel Breeze (for authentication, optional)
 
 
 
-
-📂 Project Structure
-.
-├── app/
-│   └── Http/
-│       └── Controllers/
-├── resources/
-│   └── views/
-│       ├── contact.blade.php       # User-facing form
-│       └── submissions.blade.php   # Admin view of submissions
-├── routes/
-│   └── web.php                     # All routes (GET/POST)
-├── .env                            # API Endpoint URL (optional)
-
-
-
-
-
 ⚙️ Setup Instructions
 
 1. 🛠️ Install Laravel Dependencies:
@@ -86,6 +68,16 @@ Can filter submissions by:
 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/54650143-93ed-4656-8189-85e455b3b71e)
+These ensures that Api integration is done properly
+
+
+![image](https://github.com/user-attachments/assets/b687fd08-3b56-4922-b193-3fad05790258)
+Simple form 
+
+
+![image](https://github.com/user-attachments/assets/4a34395d-285f-4d26-8057-8f70e874b928)
+List of all submissions with filters
+
 
 
 
