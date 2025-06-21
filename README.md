@@ -82,9 +82,14 @@ List of all submissions with filters
 
 
 
+🧪 Testing
+To test locally:
 
+Fill the /contact form
 
+Check /submissions — it should display your submission
 
+You can also verify on the Form.io Portal
 
 
 
